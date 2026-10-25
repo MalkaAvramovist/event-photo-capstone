@@ -3,5 +3,5 @@ dist/
 .env
 coverage/
 lesson_docs/
-SD_docs/
+
 desktop.ini
